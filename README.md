@@ -17,17 +17,5 @@ Here are some ideas to get you started:
 
 
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tasyahauliar/tasyahauliar/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tasyahauliar/tasyahauliar/output/pacman-light.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tasyahauliar/tasyahauliar/output/pacman-light.svg" />
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/tasyahauliar/tasyahauliar/output/snake.svg" alt="Snake animation" />
-
-###
 
